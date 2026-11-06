@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "anim_layers"
+version = "0.1.0"
+name = "Anim Layers"
+tagline = "Simple animation layers for any object, in a floating panel"
+maintainer = "Tom Nguyen (Vinamation / RMIT)"
+type = "add-on"
+tags = ["Animation"]
+
+blender_version_min = "4.4.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
